@@ -1,8 +1,8 @@
 # Films base
 
-Simple project using React.js and TMDB API (The Movie DB - [https://www.themoviedb.org/]https://www.themoviedb.org/).
+Simple project using React.js and TMDB API (The Movie DB - [https://www.themoviedb.org/]https://www.themoviedb.org/) and exposed at Surge.sh
 
-## Watch in
+## See in
 [http://filmsbase.surge.sh/]http://filmsbase.surge.sh/
 
 <br/>
