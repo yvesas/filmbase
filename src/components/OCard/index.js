@@ -29,7 +29,7 @@ const styles =  theme => ({
     padding: theme.spacing(0, 2, 0, 0),
   },
   heading: {
-    fontSize: 17,
+    fontSize: 18,
     fontWeight: 'bold',
     letterSpacing: '0.5px',
     marginBottom: 0,
@@ -37,8 +37,9 @@ const styles =  theme => ({
     display: 'inline-block',
   },
   overview: {
-    fontSize: 14,
-    color: theme.palette.grey[700],
+    fontSize: 15,
+    textAlign: 'justify',
+    fontStretch: 'extra-expanded'
   },
 });
  class OCard extends Component {

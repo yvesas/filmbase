@@ -9,9 +9,9 @@ import OCard  from '../../components/OCard';
 
 import api from '../../services/api';
 
+
 const styles = theme => ({
   intro: {
-    backgroundColor: '#ededed',
     padding: theme.spacing(4, 0, 2),
   },
   actions: {
@@ -22,7 +22,6 @@ const styles = theme => ({
     paddingBottom: theme.spacing(6),
   },
   body:{
-    backgroundColor: '#ededed',
     paddingBottom: theme.spacing(2)
   }
 });
@@ -104,6 +103,7 @@ const styles = theme => ({
         </Grid>
         </div>
       </div>
+    
     ) 
   }
 
